@@ -1,8 +1,8 @@
 {
   "NAME": "PicoPort",
-  "URL": "http://ksp-avc.cybutek.net/version.php?id=487",
-  "DOWNLOAD": "https://github.com/steedcrugeon/PicoPort/releases/tag/v0.1.4",
-  "CHANGE_LOG_URL": "https://github.com/steedcrugeon/PicoPort/blob/master/Changelog.txt",
+  "URL": "http://ksp.spacetux.net/avc/PicoPort",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/PicoPort/releases",
+  "CHANGE_LOG_URL": "https://github.com/linuxgurugamer/PicoPort/blob/master/Changelog.txt",
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 1,
