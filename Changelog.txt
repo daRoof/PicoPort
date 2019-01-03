@@ -1,3 +1,9 @@
+Version 0.1.4.1
+	Adopted by Linuxgurugamer
+	Revised release file
+	Added jenkins ocnfig
+	Moved .version file to top directory
+
 Version 0.1.4
 
 Fixes:
