@@ -1,7 +1,10 @@
+0.1.5
+	Localization fixes
+
 Version 0.1.4.1
 	Adopted by Linuxgurugamer
 	Revised release file
-	Added jenkins ocnfig
+	Added jenkins config
 	Moved .version file to top directory
 
 Version 0.1.4
