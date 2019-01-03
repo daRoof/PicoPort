@@ -30,8 +30,6 @@
 # 3:SOURCEFILE, DESTDIR
 3:PicoPort.version,GameData/SHED
 
-9:Extras
-
 #
 # End of file
 #
