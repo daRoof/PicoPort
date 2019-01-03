@@ -28,7 +28,7 @@
 
 
 # 3:SOURCEFILE, DESTDIR
-3:KWRocketryRPicoPortebalanced.version,GameData/SHED
+3:PicoPort.version,GameData/SHED
 
 9:Extras
 
