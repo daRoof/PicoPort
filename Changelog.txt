@@ -1,5 +1,8 @@
 ChangeLog
 
+0.1.6.1
+    restored missing .version file
+    
 0.1.6
 	Converted TGA files to DDS
 	Updated for KSP 1.8
