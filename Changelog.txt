@@ -1,5 +1,10 @@
 ChangeLog
 
+0.1.6.2
+    Thanks to github user @EngineerMartijn for this:
+        Changed offset from 45 to 90 degree.
+        Added extra digit to captureMinRollDot to make angle even closer to 90degree
+
 0.1.6.1
     restored missing .version file
     
