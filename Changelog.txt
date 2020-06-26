@@ -1,5 +1,8 @@
 ChangeLog
 
+0.1.6.3
+    Fixed .version file for correct install location
+    
 0.1.6.2
     Thanks to github user @EngineerMartijn for this:
         Changed offset from 45 to 90 degree.

@@ -7,7 +7,7 @@
     "MAJOR": 0,
     "MINOR": 1,
     "PATCH": 6,
-    "BUILD": 2
+    "BUILD": 3
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
@@ -16,8 +16,8 @@
   },
   "INSTALL_LOC_1": {
     "NAME": "PicoPort",
-    "PATH": "",
-    "DIRECTORY": "SHED",
+    "PATH": "SHED",
+    "DIRECTORY": "PicoPort",
     "FILE": "PicoPort.version"
   }
 }
